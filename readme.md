@@ -15,7 +15,7 @@ Duration : **12 Hours**
  
 
 ## Deployed Link
- [click here to see deployed version](https://law-home-page-link.netlify.app/ "Click to Visit Link") 
+ [click here to see deployed version](https://shopify-clone-link.netlify.app/ "Click to Visit Link") 
 
 
 ## Screenshots
